@@ -5,9 +5,6 @@
   <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades-">Funcionalidades</a>
 </p>
-<p align="center"> 
-FreePlay é um ótimo site para encontrar jogos novos, divertidos e gratuitos para jogar com seus amigos.
-</p>
 <p align="center">
 <img src="/assets/images/video.gif" align="center" style="border-radius: 10px" />
 </p>
